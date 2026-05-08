@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - ramkinetic14/chai-devops:v1.0.4
